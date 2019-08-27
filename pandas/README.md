@@ -1,2 +1,2 @@
-# learning_notes
-学习笔记
+# Pandas learning_notes
+pandas学习笔记
